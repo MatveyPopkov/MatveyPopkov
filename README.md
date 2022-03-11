@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @MatveyPopkov
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning data science in Yandex Praktikum
-- 💞️ I’m looking to collaborate on interesting projects
+- 👀 I’m interested in analytics and data science
 - 📫 How to reach me https://www.linkedin.com/in/matvey-popkov-06463280/
 
 <!---
